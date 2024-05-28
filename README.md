@@ -1,29 +1,15 @@
-<!DOCTYPE html>
-<html>
 <h1 align="center">Hi 👋, I'm Parth Aland</h1>
 <h3 align="center">A passionate AI Engineer from India</h3>
-<style>
-div.mycontainer {
-  width:100%;
-  overflow:auto;
-}
-div.mycontainer div {
-  width:33%;  
-  float:left;
-}
-</style>
-  <body>
-  <div class="mycontainer">
-<img class="Parth S. Aland" src="https://media.licdn.com/dms/image/C4E03AQELmJCA4Gf9Mg/profile-displayphoto-shrink_200_200/0/1646547932517?e=2147483647&v=beta&t=U3bFkVOHNo9cUd37pKo3RXJIN10d4P8204GfnHMjqlg">
 
-<div>
+<center><img alt="Parth S. Aland" width="300" src="https://media.licdn.com/dms/image/C4E03AQELmJCA4Gf9Mg/profile-displayphoto-shrink_200_200/0/1646547932517?e=2147483647&v=beta&t=U3bFkVOHNo9cUd37pKo3RXJIN10d4P8204GfnHMjqlg"></center>
 
-<p>- 🌱 I’m currently learning **Generative AI(LLMs, AI Agents)**</p><b>
 
-<p>- 💬 Ask me about **Machine Learning, NLP**<p><b>
-  
-<p>- 📫 How to reach me **alandparth@gmail.com**<p><b>
-</div> </div>
+
+- 🌱 I’m currently learning **Generative AI(LLMs, AI Agents)**
+
+- 💬 Ask me about **Machine Learning, NLP**
+
+- 📫 How to reach me **alandparth@gmail.com**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=som-nlp" alt="som-nlp" /></a> </p>
 
@@ -41,5 +27,3 @@ div.mycontainer div {
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=som-nlp&show_icons=true&locale=en" alt="som-nlp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=som-nlp&" alt="som-nlp" /></p>
-</body>
-</html>
