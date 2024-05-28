@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Parth Aland</h1>
 <h3 align="center">A passionate AI Engineer from India</h3>
 <h4>
-<div style="float:left;">
+<div>
   
   
-<img alt="Parth S. Aland" src="https://media.licdn.com/dms/image/C4E03AQELmJCA4Gf9Mg/profile-displayphoto-shrink_200_200/0/1646547932517?e=2147483647&v=beta&t=U3bFkVOHNo9cUd37pKo3RXJIN10d4P8204GfnHMjqlg">
+<img alt="Parth S. Aland" src="https://media.licdn.com/dms/image/C4E03AQELmJCA4Gf9Mg/profile-displayphoto-shrink_200_200/0/1646547932517?e=2147483647&v=beta&t=U3bFkVOHNo9cUd37pKo3RXJIN10d4P8204GfnHMjqlg" style="float:left;">
 
 </div>
-<div style="float:right;">
+<div style="float:right;" >
 - 🌱 I’m currently learning **Generative AI(LLMs, AI Agents)**
 
 - 💬 Ask me about **Machine Learning, NLP**
