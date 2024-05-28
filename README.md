@@ -9,7 +9,7 @@
 - 💬 Ask me about **Machine Learning, NLP**
 
 - 📫 How to reach me **alandparth@gmail.com**
-- </div>
+ </div>
 </div>
 </div>
 
