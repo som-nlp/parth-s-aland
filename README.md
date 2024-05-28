@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **Machine Learning, NLP**
 
-- 📫 How to reach me **alandparth@gmail.com**
+- 📫 How to reach me **alandparth@gmail.com** </div>
+<div style="clear: left;"/>
 
-</div>
 </hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=som-nlp" alt="som-nlp" /></a> </p>
 
