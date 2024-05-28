@@ -1,27 +1,26 @@
 <h1 align="center">Hi 👋, I'm Parth Aland</h1>
 <h3 align="center">A passionate AI Engineer from India</h3>
-<style type="text/css">
-  .Parth S. Aland{
-    float : left ;
-    }
-    .pos_cen
-    {
-      position : absolute;
-      
-    }
-  
-  </style>
-  
+<<style>
+div.mycontainer {
+  width:100%;
+  overflow:auto;
+}
+div.mycontainer div {
+  width:33%;  
+  float:left;
+}
+</style>
+  <div class="mycontainer">
 <img class="Parth S. Aland" src="https://media.licdn.com/dms/image/C4E03AQELmJCA4Gf9Mg/profile-displayphoto-shrink_200_200/0/1646547932517?e=2147483647&v=beta&t=U3bFkVOHNo9cUd37pKo3RXJIN10d4P8204GfnHMjqlg">
 
-<div class= "pos-cen" >
+<div>
 
 <p>- 🌱 I’m currently learning **Generative AI(LLMs, AI Agents)**</p><b>
 
 <p>- 💬 Ask me about **Machine Learning, NLP**<p><b>
   
 <p>- 📫 How to reach me **alandparth@gmail.com**<p><b>
-</div>
+</div> </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=som-nlp" alt="som-nlp" /></a> </p>
 
