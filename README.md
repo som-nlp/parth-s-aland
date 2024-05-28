@@ -3,13 +3,19 @@
 
 <center><img alt="Parth S. Aland" width="300" src="https://media.licdn.com/dms/image/C4E03AQELmJCA4Gf9Mg/profile-displayphoto-shrink_200_200/0/1646547932517?e=2147483647&v=beta&t=U3bFkVOHNo9cUd37pKo3RXJIN10d4P8204GfnHMjqlg"></center>
 
+</div >
+<div style=" float : left;text-align:left;"><br><br>
+<ul>
+<li>- 🌱 I’m currently learning <b>**Generative AI(LLMs, AI Agents)**</b><br><br></li>
 
+<li>- 💬 Ask me about <b>**Machine Learning, NLP**</b><br><br></li>
 
-- 🌱 I’m currently learning **Generative AI(LLMs, AI Agents)**
-
-- 💬 Ask me about **Machine Learning, NLP**
-
-- 📫 How to reach me **alandparth@gmail.com**
+<li>- 📫 How to reach me <b>**alandparth@gmail.com**</b><br><br></li>
+</ul>
+<br>
+<br>
+</div>
+</hr>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=som-nlp" alt="som-nlp" /></a> </p>
 
