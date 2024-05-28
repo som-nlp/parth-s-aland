@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <h1 align="center">Hi 👋, I'm Parth Aland</h1>
 <h3 align="center">A passionate AI Engineer from India</h3>
 <style>
@@ -40,3 +42,4 @@ div.mycontainer div {
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=som-nlp&" alt="som-nlp" /></p>
 </body>
+</html>
