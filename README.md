@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parth Aland</h1>
 <h3 align="center">A passionate AI Engineer from India</h3>
+<body>
 <hr>
 <div style="float:left;">
 <img alt="Parth S. Aland" src="https://media.licdn.com/dms/image/C4E03AQELmJCA4Gf9Mg/profile-displayphoto-shrink_200_200/0/1646547932517?e=2147483647&v=beta&t=U3bFkVOHNo9cUd37pKo3RXJIN10d4P8204GfnHMjqlg">
@@ -30,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=som-nlp&show_icons=true&locale=en" alt="som-nlp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=som-nlp&" alt="som-nlp" /></p>
+</body>
