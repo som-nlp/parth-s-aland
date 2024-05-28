@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Parth Aland</h1>
 <h3 align="center">A passionate AI Engineer from India</h3>
 
-<img alt="Parth S. Aland" src="https://media.licdn.com/dms/image/C4E03AQELmJCA4Gf9Mg/profile-displayphoto-shrink_200_200/0/1646547932517?e=2147483647&v=beta&t=U3bFkVOHNo9cUd37pKo3RXJIN10d4P8204GfnHMjqlg" style="float:left;width:300px;height:300px;>- 
-<p style="float:right;width:300px;height:300px;>
-🌱 I’m currently learning **Generative AI(LLMs, AI Agents)**-<b> 💬 Ask me about **Machine Learning, NLP**- <b>📫 How to reach me **alandparth@gmail.com**
-</p>
-  
+<img alt="Parth S. Aland" width="300" src="https://media.licdn.com/dms/image/C4E03AQELmJCA4Gf9Mg/profile-displayphoto-shrink_200_200/0/1646547932517?e=2147483647&v=beta&t=U3bFkVOHNo9cUd37pKo3RXJIN10d4P8204GfnHMjqlg" style="float:left;width:42px;height:42px;">
+
+
+
+
+- 🌱 I’m currently learning **Generative AI(LLMs, AI Agents)**
+
+- 💬 Ask me about **Machine Learning, NLP**
+
+- 📫 How to reach me **alandparth@gmail.com**
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=som-nlp" alt="som-nlp" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
