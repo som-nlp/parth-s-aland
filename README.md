@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth Aland</h1>
 <h3 align="center">A passionate AI Engineer from India</h3>
 <style>
-  .Parth s.Aland{
+  .Parth S. Aland{
     float : left ;
     }
     .pos_cen
