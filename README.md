@@ -14,7 +14,9 @@ img {
 }
 <div class="container">
       <div class="image">
-<center><img alt="Parth S. Aland" width="300" src="https://media.licdn.com/dms/image/C4E03AQELmJCA4Gf9Mg/profile-displayphoto-shrink_200_200/0/1646547932517?e=2147483647&v=beta&t=U3bFkVOHNo9cUd37pKo3RXJIN10d4P8204GfnHMjqlg"></center>
+  </style>
+  
+<img alt="Parth S. Aland" width="300" src="https://media.licdn.com/dms/image/C4E03AQELmJCA4Gf9Mg/profile-displayphoto-shrink_200_200/0/1646547932517?e=2147483647&v=beta&t=U3bFkVOHNo9cUd37pKo3RXJIN10d4P8204GfnHMjqlg">
 
 </div>
       <div class="text">
