@@ -7,11 +7,12 @@
 
 <div>
 <div style="float:right;">
+  <p>
 - 🌱 I’m currently learning **Generative AI(LLMs, AI Agents)**
 
 - 💬 Ask me about **Machine Learning, NLP**
 
-- 📫 How to reach me **alandparth@gmail.com** </div>
+- 📫 How to reach me **alandparth@gmail.com** </p></div>
 <div style="clear: left;"/>
 
 </hr>
